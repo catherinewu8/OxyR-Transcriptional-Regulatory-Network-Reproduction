@@ -24,3 +24,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+# User Guide and Project Structure
+
+## Requirements
+- Linux/Unix environment
+- BASH
+- R (4.0+)
+- Bowtie
+- Bowtie 2
