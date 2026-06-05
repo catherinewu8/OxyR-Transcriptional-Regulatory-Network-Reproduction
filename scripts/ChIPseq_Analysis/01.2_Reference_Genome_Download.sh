@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --chdir=/home/c/catherinewu/MidtermProject/
+#SBATCH --chdir=/~/
 #SBATCH --job-name=refGenomeDownload
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
