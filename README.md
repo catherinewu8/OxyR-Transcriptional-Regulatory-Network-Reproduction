@@ -1,7 +1,7 @@
 # OxyR-Transcriptional-Regulatory-Network-Reproduction
 Partial reproduction of the OxyR transcription factor regulatory network in E. coli under oxidative stress, based on Seo et al. (2015), including peak calling (using MACS2 instead of MACE) and identification of candidate target genes of the transcription factor from the ChIP-seq data. Differentially Expressed Genes in the bulk RNA-seq data were analyzed and used to investigate potential pathways. 
 
-SLURM in an HPC system was used for the ChIP-seq data analysis whereas a local machine was used for RNA-seq analysis while utilizing multiple cores for parallel computing. 
+SLURM in an HPC system was used for the ChIP-seq data analysis whereas a local machine was used for bulk RNA-seq analysis while utilizing multiple cores for parallel computing. 
 
 ## License
 This work is licensed under the terms of the MIT License:
