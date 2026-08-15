@@ -3,8 +3,6 @@ Partial reproduction of the OxyR transcription factor regulatory network in E. c
 
 SLURM in an HPC system was used for the ChIP-seq data analysis whereas a local machine was used for bulk RNA-seq analysis while utilizing multiple cores for parallel computing. 
 
-# User Guide and Project Structure
-
 ## Requirements
 - Linux/Unix environment
 - BASH
